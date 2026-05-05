@@ -194,7 +194,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-Your Name
+Lalit Kumar
 
 ---
 
